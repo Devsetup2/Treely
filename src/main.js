@@ -261,12 +261,5 @@ if (new URLSearchParams(location.search).has('notfound')) {
   toast(t('notfound'));
   history.replaceState(null, '', location.pathname);
 }
-/* ---------- js netlift yok etme ---------- */
-window.addEventListener('DOMContentLoaded', () => {
-    // Netlify elementini bul ve sil
-    const netlifyBadge = document.querySelector('[href*="netlify.com"]');
-    if (netlifyBadge) {
-        netlifyBadge.remove();
-    }
-});
+
 
