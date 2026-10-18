@@ -1,5 +1,5 @@
 # 🌳 Treely — Sakin Link Kısaltıcı
-
+# Geliştirici: https://www.instagram.com/muammer_altunkann/
 Uzun bağlantıyı yapıştır, **Kısalt**'a bas. Ağaç, kısa bağlantının taranabilir QR koduna dönüşür.
 Üç mevsim (İlkbahar / Yaz / Sonbahar), ortam sesi, kopyala / QR indir / X · Facebook · WhatsApp paylaşımı içerir.
 
