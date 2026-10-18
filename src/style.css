@@ -528,3 +528,14 @@ button {
     transition-duration: 0.001ms !important;
   }
 }
+
+/* Netlify rozetini gizleme */
+#netlify-badge, 
+.netlify-badge, 
+[id*="netlify"] {
+    display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+    pointer-events: none !important;
+}
+
